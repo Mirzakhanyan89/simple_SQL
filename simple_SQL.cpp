@@ -109,7 +109,7 @@ int main() {
     create(Person("Jane Smith", 22));
     create(Person("Michael Johnson", 19));
 
-	change(5, "Alice", 25);
+	change(2, "Alice", 25);
 	deletePerson(1);
 
     return 0;
